@@ -9,8 +9,10 @@ For more information, see [instructions here](http://www.croquade.us/waffle-make
 ## 3. (Optional) Verify the creation of the object
     # command info object-name
 
-###Example 1:  Creating a CA that Includes All Elements
+###Example 1:  Creating a CA that Includes All Elements    
+
 The following example shows how to create a CA with all zones into the clone archive named `liege.waf`.
+
 ```
 # command create object-name
 lots-of-fun-stuff-including-a-waffle-recipe-below
