@@ -1,4 +1,4 @@
-Markdown conversion of an example systems admin doc.
+Markdown conversion of an example systems admin doc plus a recipe.
 
 # How to Create a CA
 
@@ -9,7 +9,7 @@ For more information, see [instructions here](http://www.croquade.us/waffle-make
 ## 3. (Optional) Verify the creation of the object
     # command info object-name
 
-###Example 1:  Creating a CA that Includes All Elements    
+### Example 1:  Creating a CA that Includes All Elements    
 
 The following example shows how to create a CA with all zones into the clone archive named `liege.waf`.
 
